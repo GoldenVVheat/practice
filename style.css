@@ -166,10 +166,10 @@
     background-color: var(--color-dark);
     color: var(--color-white);
     text-decoration: none;
+    transition:0.2s ease;
 }
 
 .button:hover {
-    transition:0.2s ease;
     background-color: var(--color-white);
     color: var(--color-dark);
 }
